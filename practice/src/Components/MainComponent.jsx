@@ -1,6 +1,6 @@
 import React, { createContext } from 'react'
 import SubComponent1 from './SubComponent1';
-import "./style.css"
+import "./Style.css"
 
 const data = createContext();
 const MainComponent = () => {
