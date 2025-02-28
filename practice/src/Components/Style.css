@@ -1,0 +1,29 @@
+table{
+    border-collapse: collapse;
+    width: 99%;
+    margin-right: auto;
+    margin-left: auto;
+}
+th,td {
+    border: 1.5px solid white;
+    padding: 5px;
+    text-align: center;
+}
+th {
+    background-color: #6b795e;
+    color: orange;
+}
+caption {
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+    color: rgb(27, 207, 117);
+}
+img {
+    /* margin-left: 15vw; */
+    height: 250px;
+
+}
+body{
+    background-color: #000;
+    color: white;
+}
