@@ -1,6 +1,6 @@
 import React, { createContext } from 'react'
 import MovieCard1 from './MovieCard1';
-import './Style.css'
+
 const useData = createContext();
 const MovieList = () => {
     const movieList = [
